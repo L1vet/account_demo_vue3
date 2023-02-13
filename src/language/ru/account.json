@@ -1,0 +1,21 @@
+{
+    "personal_info": "Личная информация",
+    "cashback": "Кэшбэк",
+    "clubcard": "Клубная карта",
+    "orders": "Заказы",
+    "logout": "Выйти",
+    "bonuses": "Бонусы",
+    "discount": "Скидка",
+    "firstname": "Имя",
+    "lastname": "Фамилия",
+    "middlename": "Отчество",
+    "sex": "Пол",
+    "sexmale": "Мужской",
+    "sexfemale": "Женский",
+    "email": "E-mail",
+    "phone": "Телефон",
+    "birthday": "Дата рождения",
+    "edit": "Редактировать",
+    "cancel": "Отменить",
+    "save": "Сохранить"
+}
